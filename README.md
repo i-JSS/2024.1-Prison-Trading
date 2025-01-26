@@ -51,8 +51,8 @@ Além disso, você também precisa estar atento aos guardas e às rotinas da pri
             </a>
         </td>
        <td align="center">
-            <a href="https://github.com/joaoseisei">
-                <img style="border-radius: 50%;" src="https://github.com/joaoseisei.png" width="150px;"/>
+            <a href="https://github.com/i-JSS">
+                <img style="border-radius: 50%;" src="https://github.com/i-JSS" width="150px;"/>
                 <h5 class="text-center"> João Antonio Ginuino Carvalho <br></h5>
                 <h5 class="text-center"> 221008150 </h5>
             </a>
